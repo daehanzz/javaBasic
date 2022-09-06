@@ -11,8 +11,8 @@ public class VarEx1 {
 		System.out.println(year);	//0
 		System.out.println(age);	//14
 		
-		year=age+2000; // º¯¼ö ageÀÇ °ª¿¡ 2000À» ´õÇØ¼­ º¯¼ö year¿¡ ÀúÀå
-		age=age+1;	   // º¯¼ö age¿¡ ÀúÀåµÈ °ªÀ» 1 Áõ°¡½ÃÅ²´Ù.
+		year=age+2000; // ë³€ìˆ˜ ageì˜ ê°’ì— 2000ì„ ë”í•´ì„œ ë²¼ìˆ˜ yearì— ì €ì¥
+		age=age+1;	   // ë³€ìˆ˜ ageì— ì €ì¥ëœ ê°’ì„ 1ì¦ê°€ ì‹œí‚¨ë‹¤
 		
 		System.out.println(year);	//2014
 		System.out.println(age);	//15
