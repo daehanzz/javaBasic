@@ -5,7 +5,7 @@ public class FloatEx1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		//실수 오버플로우1
+		//float
 		
 		float f = 9.12345678901234567890f;
 		float f2 = 1.2345678901234567890f;
