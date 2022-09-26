@@ -31,7 +31,7 @@ public class MemberCall {
 	void instanceMethod2() {
 		/*
 		 * 인스턴스메서드에서는 인스턴스메서드와 클래스메서드
-		 * 모두 인스턴스 생성없이 바로 호출이 가능하다.
+		 * 모두 인스턴스 생성없이 바로 호출이 가능하다.,
 		 * */
 		staticMethod1();
 		instanceMethod1();
