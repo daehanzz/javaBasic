@@ -20,7 +20,19 @@ public class Deck {
 		return cardArr[index];
 	}
 	
-//	Card pick() {
-//		
-//	}
+	Card pick() {
+		int index = (int)(Math.random()*CARD_NUM);
+		return pick(index);
+	}
+	
+	void suffle() {
+		for(int i=0;i<cardArr.length;i++) {
+			int r = (int)(Math.random()*CARD_NUM);
+			
+			Card tmp = cardArr[i];
+			cardArr[i] = cardArr[r];
+			cardArr[r] = tmp;
+			
+		}
+	}
 }
