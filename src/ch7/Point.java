@@ -10,11 +10,15 @@ public class Point {
 		this.y = y;
 	}
 	
-	Point(){
-		this(0,0);
-	}
+//	Point(){
+//		this(0,0);
+//	}
 	
 	String getXY() {
 		return "("+x+","+y+")";
+	}
+	
+	String getLocation() {
+		return "x : "+x+", y : "+y;
 	}
 }
