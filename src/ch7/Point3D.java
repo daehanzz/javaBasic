@@ -16,7 +16,6 @@ public class Point3D extends Point {
         // 2) 조상클래스의 생성자 호출시 'super();'가 아닌 'super(x,y);'로 호출한다.
         // => 즉 조상 클래스의 멤버변수(x와 y)는 이처럼 조상의 생성자에 의해서 초기화 되도록 해야 한다.
 
-		
 		super(x, y);
 		this.x = x;
 		this.y = y;

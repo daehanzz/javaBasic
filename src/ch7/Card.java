@@ -10,24 +10,29 @@ public class Card {
 	static final int HEART = 2;
 	static final int CLOVER = 1;
 	
-	int kind;
-	int number;
+	final String KIND;
+	final int NUMBER;
 	
 	Card(){
-		this(SPADE,1);
+		this("HEART",1);
 	}
 	
-	Card(int kind,int number){
-		this.kind = kind;
-		this.number = number;
+	Card(String kind,int number){
+		KIND = kind;
+		NUMBER = number;
 	}
 	
-	public String toString() {
-        String[] kinds = {"", "CLOVER", "HEART", "DIAMOND", "SPADE"};
-        String numbers = "0123456789XJQK";  // 숫자 10은 X로 표현
- 
-        return "kind : " + kinds[this.kind] + ", number : " + numbers.charAt(this.number);
-
+//	public String toString() {
+//        String[] kinds = {"", "CLOVER", "HEART", "DIAMOND", "SPADE"};
+//        String numbers = "0123456789XJQK";  // 숫자 10은 X로 표현
+// 
+//        return "kind : " + kinds[this.kind] + ", number : " + numbers.charAt(this.number);
+//
+//	}
+	
+	public String toString() {		
+		return KIND + " "+NUMBER;
+		
 	}
 	
 }

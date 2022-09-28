@@ -10,9 +10,9 @@ public class Deck {
 	Deck() {	// Deck의 카드를 초기화 한다.
 		int i=0;
 		
-		for(int k=Card.KIND_MAX;k>0;k--)
-			for(int n=0;n<Card.NUM_MAX;n++)
-				cardArr[i++]=new Card(k,n+1);
+//		for(int k=Card.KIND_MAX;k>0;k--)
+//			for(int n=0;n<Card.NUM_MAX;n++)
+//				cardArr[i++]=new Card(k,n+1);
 		
 	}
 	
