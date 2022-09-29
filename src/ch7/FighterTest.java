@@ -5,7 +5,7 @@ public class FighterTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Fighter f = new Fighter();
+		Fighter f = new Fighter(0);
 		
 		if(f instanceof Unit)
 			System.out.println("f는 Unit클래스의 자손입니다");

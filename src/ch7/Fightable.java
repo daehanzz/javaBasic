@@ -11,3 +11,4 @@ interface Movable{
 interface Attackable{
 	void attack(Unit u);
 }
+

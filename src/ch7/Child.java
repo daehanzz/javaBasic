@@ -1,10 +1,8 @@
 package ch7;
 
-public class Child extends Parent {
-
-	int x=200;
+public class Child extends Parent implements MyInterface,MyInterface2 {
 	
-	void method() {
-		System.out.println("자식 메소드");
+	public void method1() {
+		System.out.println("method1() in Child");	// 오버라이딩
 	}
 }
