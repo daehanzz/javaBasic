@@ -1,0 +1,2065 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarEx1",
+            "request": "launch",
+            "mainClass": "ch10.CalendarEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarEx2",
+            "request": "launch",
+            "mainClass": "ch10.CalendarEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarEx3",
+            "request": "launch",
+            "mainClass": "ch10.CalendarEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarEx4",
+            "request": "launch",
+            "mainClass": "ch10.CalendarEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarEx5",
+            "request": "launch",
+            "mainClass": "ch10.CalendarEx5",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarEx6",
+            "request": "launch",
+            "mainClass": "ch10.CalendarEx6",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarEx7",
+            "request": "launch",
+            "mainClass": "ch10.CalendarEx7",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarEx8",
+            "request": "launch",
+            "mainClass": "ch10.CalendarEx8",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarEx9",
+            "request": "launch",
+            "mainClass": "ch10.CalendarEx9",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChoiceFormatEx1",
+            "request": "launch",
+            "mainClass": "ch10.ChoiceFormatEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChoiceFormatEx2",
+            "request": "launch",
+            "mainClass": "ch10.ChoiceFormatEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateFormatEx1",
+            "request": "launch",
+            "mainClass": "ch10.DateFormatEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateFormatEx2",
+            "request": "launch",
+            "mainClass": "ch10.DateFormatEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateFormatEx3",
+            "request": "launch",
+            "mainClass": "ch10.DateFormatEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateFormatEx4",
+            "request": "launch",
+            "mainClass": "ch10.DateFormatEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateFormatterEx1",
+            "request": "launch",
+            "mainClass": "ch10.DateFormatterEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateFormatterEx2",
+            "request": "launch",
+            "mainClass": "ch10.DateFormatterEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalFormatEx1",
+            "request": "launch",
+            "mainClass": "ch10.DecimalFormatEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalFormatEx2",
+            "request": "launch",
+            "mainClass": "ch10.DecimalFormatEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MessageFormatEx1",
+            "request": "launch",
+            "mainClass": "ch10.MessageFormatEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MessageFormatEx2",
+            "request": "launch",
+            "mainClass": "ch10.MessageFormatEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MessageFormatEx3",
+            "request": "launch",
+            "mainClass": "ch10.MessageFormatEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MessageFormatEx4",
+            "request": "launch",
+            "mainClass": "ch10.MessageFormatEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewTimeEx1",
+            "request": "launch",
+            "mainClass": "ch10.NewTimeEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewTimeEx2",
+            "request": "launch",
+            "mainClass": "ch10.NewTimeEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewTimeEx3",
+            "request": "launch",
+            "mainClass": "ch10.NewTimeEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewTimeEx4",
+            "request": "launch",
+            "mainClass": "ch10.NewTimeEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx1",
+            "request": "launch",
+            "mainClass": "ch11.ArrayListEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx2",
+            "request": "launch",
+            "mainClass": "ch11.ArrayListEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListLinkedListTest",
+            "request": "launch",
+            "mainClass": "ch11.ArrayListLinkedListTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListLinkedListTest2",
+            "request": "launch",
+            "mainClass": "ch11.ArrayListLinkedListTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysEx",
+            "request": "launch",
+            "mainClass": "ch11.ArraysEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch AsciiPrint",
+            "request": "launch",
+            "mainClass": "ch11.AsciiPrint",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bingo",
+            "request": "launch",
+            "mainClass": "ch11.Bingo",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionsEx",
+            "request": "launch",
+            "mainClass": "ch11.CollectionsEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComparatorEx",
+            "request": "launch",
+            "mainClass": "ch11.ComparatorEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExpValidCheck",
+            "request": "launch",
+            "mainClass": "ch11.ExpValidCheck",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx1",
+            "request": "launch",
+            "mainClass": "ch11.HashMapEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx2",
+            "request": "launch",
+            "mainClass": "ch11.HashMapEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx3",
+            "request": "launch",
+            "mainClass": "ch11.HashMapEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx4",
+            "request": "launch",
+            "mainClass": "ch11.HashMapEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx1",
+            "request": "launch",
+            "mainClass": "ch11.HashSetEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx3",
+            "request": "launch",
+            "mainClass": "ch11.HashSetEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx4",
+            "request": "launch",
+            "mainClass": "ch11.HashSetEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx5",
+            "request": "launch",
+            "mainClass": "ch11.HashSetEx5",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetLotto",
+            "request": "launch",
+            "mainClass": "ch11.HashSetLotto",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorEx1",
+            "request": "launch",
+            "mainClass": "ch11.IteratorEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorEx2",
+            "request": "launch",
+            "mainClass": "ch11.IteratorEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListIteratorEx1",
+            "request": "launch",
+            "mainClass": "ch11.ListIteratorEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyVector2Test",
+            "request": "launch",
+            "mainClass": "ch11.MyVector2Test",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PriorityQueueEx",
+            "request": "launch",
+            "mainClass": "ch11.PriorityQueueEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesEx1",
+            "request": "launch",
+            "mainClass": "ch11.PropertiesEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesEx2",
+            "request": "launch",
+            "mainClass": "ch11.PropertiesEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesEx3",
+            "request": "launch",
+            "mainClass": "ch11.PropertiesEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesEx4",
+            "request": "launch",
+            "mainClass": "ch11.PropertiesEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueEx1",
+            "request": "launch",
+            "mainClass": "ch11.QueueEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackEx1",
+            "request": "launch",
+            "mainClass": "ch11.StackEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackQueueEx",
+            "request": "launch",
+            "mainClass": "ch11.StackQueueEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeMapEx1",
+            "request": "launch",
+            "mainClass": "ch11.TreeMapEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetEx1",
+            "request": "launch",
+            "mainClass": "ch11.TreeSetEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetEx2",
+            "request": "launch",
+            "mainClass": "ch11.TreeSetEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetLotto",
+            "request": "launch",
+            "mainClass": "ch11.TreeSetLotto",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch VectorEx1",
+            "request": "launch",
+            "mainClass": "ch11.VectorEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx1",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx10",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx10",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx11",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx11",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx12",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx12",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx13",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx13",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx14",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx14",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx15",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx15",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx16",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx16",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx17",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx17",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx18",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx18",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx19",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx19",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx2",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx20",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx20",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx21",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx21",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx22",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx22",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx23",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx23",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx24",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx24",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx25",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx25",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx26",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx26",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx27",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx27",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx28",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx28",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx29",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx29",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx3",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx30",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx30",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx31",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx31",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx32",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx32",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx33",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx33",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx34",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx34",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx4",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx5",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx5",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx6",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx6",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx7",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx7",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx8",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx8",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowEx9",
+            "request": "launch",
+            "mainClass": "ch4.FlowEx9",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx1",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx10",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx10",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx11",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx11",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx12",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx12",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx13",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx13",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx14",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx14",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx15",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx15",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx16",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx16",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx17",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx17",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx18",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx18",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx19",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx19",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx2",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx3",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx4",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx5",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx5",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx6",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx6",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx7",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx7",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx8",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx8",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx9",
+            "request": "launch",
+            "mainClass": "ch5.ArrayEx9",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiArrEx1",
+            "request": "launch",
+            "mainClass": "ch5.MultiArrEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiArrEx2",
+            "request": "launch",
+            "mainClass": "ch5.MultiArrEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiArrEx3",
+            "request": "launch",
+            "mainClass": "ch5.MultiArrEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiArrEx4",
+            "request": "launch",
+            "mainClass": "ch5.MultiArrEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch BlockTest",
+            "request": "launch",
+            "mainClass": "ch6.BlockTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallStackTest",
+            "request": "launch",
+            "mainClass": "ch6.CallStackTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallStackTest2",
+            "request": "launch",
+            "mainClass": "ch6.CallStackTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarTest",
+            "request": "launch",
+            "mainClass": "ch6.CarTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarTest2",
+            "request": "launch",
+            "mainClass": "ch6.CarTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarTest3",
+            "request": "launch",
+            "mainClass": "ch6.CarTest3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CardTest",
+            "request": "launch",
+            "mainClass": "ch6.CardTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorTest",
+            "request": "launch",
+            "mainClass": "ch6.ConstructorTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DocumentTest",
+            "request": "launch",
+            "mainClass": "ch6.DocumentTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactorialTest",
+            "request": "launch",
+            "mainClass": "ch6.FactorialTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactorialTest2",
+            "request": "launch",
+            "mainClass": "ch6.FactorialTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainTest",
+            "request": "launch",
+            "mainClass": "ch6.MainTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyMathTest",
+            "request": "launch",
+            "mainClass": "ch6.MyMathTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyMathTest2",
+            "request": "launch",
+            "mainClass": "ch6.MyMathTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadingTest",
+            "request": "launch",
+            "mainClass": "ch6.OverloadingTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerTest",
+            "request": "launch",
+            "mainClass": "ch6.PowerTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimitiveParamEx",
+            "request": "launch",
+            "mainClass": "ch6.PrimitiveParamEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductTest",
+            "request": "launch",
+            "mainClass": "ch6.ProductTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReferenceParamEx",
+            "request": "launch",
+            "mainClass": "ch6.ReferenceParamEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReferenceParamEx2",
+            "request": "launch",
+            "mainClass": "ch6.ReferenceParamEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReferenceParamEx3",
+            "request": "launch",
+            "mainClass": "ch6.ReferenceParamEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReferenceReturnEx",
+            "request": "launch",
+            "mainClass": "ch6.ReferenceReturnEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReturnTest",
+            "request": "launch",
+            "mainClass": "ch6.ReturnTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticBlockTest",
+            "request": "launch",
+            "mainClass": "ch6.StaticBlockTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TvTest",
+            "request": "launch",
+            "mainClass": "ch6.TvTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TvTest2",
+            "request": "launch",
+            "mainClass": "ch6.TvTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TvTest3",
+            "request": "launch",
+            "mainClass": "ch6.TvTest3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TvTest4",
+            "request": "launch",
+            "mainClass": "ch6.TvTest4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarArgsEx",
+            "request": "launch",
+            "mainClass": "ch6.VarArgsEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch BindingTest",
+            "request": "launch",
+            "mainClass": "ch7.BindingTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaptionTvTest",
+            "request": "launch",
+            "mainClass": "ch7.CaptionTvTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingTest1",
+            "request": "launch",
+            "mainClass": "ch7.CastingTest1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingTest2",
+            "request": "launch",
+            "mainClass": "ch7.CastingTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeckTest",
+            "request": "launch",
+            "mainClass": "ch7.DeckTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DefaultMethodTest",
+            "request": "launch",
+            "mainClass": "ch7.DefaultMethodTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawShape",
+            "request": "launch",
+            "mainClass": "ch7.DrawShape",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FighterTest",
+            "request": "launch",
+            "mainClass": "ch7.FighterTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinalCardTest",
+            "request": "launch",
+            "mainClass": "ch7.FinalCardTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImportTest",
+            "request": "launch",
+            "mainClass": "ch7.ImportTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerEx1",
+            "request": "launch",
+            "mainClass": "ch7.InnerEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerEx4",
+            "request": "launch",
+            "mainClass": "ch7.InnerEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerEx5",
+            "request": "launch",
+            "mainClass": "ch7.InnerEx5",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerEx7",
+            "request": "launch",
+            "mainClass": "ch7.InnerEx7",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerEx8",
+            "request": "launch",
+            "mainClass": "ch7.InnerEx8",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch InstanceofTest",
+            "request": "launch",
+            "mainClass": "ch7.InstanceofTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceTest",
+            "request": "launch",
+            "mainClass": "ch7.InterfaceTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceTest2",
+            "request": "launch",
+            "mainClass": "ch7.InterfaceTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceTest3",
+            "request": "launch",
+            "mainClass": "ch7.InterfaceTest3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParserTest",
+            "request": "launch",
+            "mainClass": "ch7.ParserTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PointTest",
+            "request": "launch",
+            "mainClass": "ch7.PointTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PointTest2",
+            "request": "launch",
+            "mainClass": "ch7.PointTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolyArgumentTest",
+            "request": "launch",
+            "mainClass": "ch7.PolyArgumentTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolyArgumentTest2",
+            "request": "launch",
+            "mainClass": "ch7.PolyArgumentTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolyArgumentTest3",
+            "request": "launch",
+            "mainClass": "ch7.PolyArgumentTest3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepairableTest",
+            "request": "launch",
+            "mainClass": "ch7.RepairableTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingletonTest",
+            "request": "launch",
+            "mainClass": "ch7.SingletonTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticIMportEx1",
+            "request": "launch",
+            "mainClass": "ch7.StaticIMportEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperTest",
+            "request": "launch",
+            "mainClass": "ch7.SuperTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperTest2",
+            "request": "launch",
+            "mainClass": "ch7.SuperTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TimeTest",
+            "request": "launch",
+            "mainClass": "ch7.TimeTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx1",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx10",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx10",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx11",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx11",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx12",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx12",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx13",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx13",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx14",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx14",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx15",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx15",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx16",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx16",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx17",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx17",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx2",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx3",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx4",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx5",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx5",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx6",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx6",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx7",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx7",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx8",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx8",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx9",
+            "request": "launch",
+            "mainClass": "ch8.ExceptionEx9",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinallyTest",
+            "request": "launch",
+            "mainClass": "ch8.FinallyTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinallyTest2",
+            "request": "launch",
+            "mainClass": "ch8.FinallyTest2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinallyTest3",
+            "request": "launch",
+            "mainClass": "ch8.FinallyTest3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewExceptionTest",
+            "request": "launch",
+            "mainClass": "ch8.NewExceptionTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch TryWithResourceEx",
+            "request": "launch",
+            "mainClass": "ch8.TryWithResourceEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch BigDecimalEx",
+            "request": "launch",
+            "mainClass": "ch9.BigDecimalEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch BigIntegerEx",
+            "request": "launch",
+            "mainClass": "ch9.BigIntegerEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CardToString",
+            "request": "launch",
+            "mainClass": "ch9.CardToString",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CardToString2",
+            "request": "launch",
+            "mainClass": "ch9.CardToString2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassEx1",
+            "request": "launch",
+            "mainClass": "ch9.ClassEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CloneEx1",
+            "request": "launch",
+            "mainClass": "ch9.CloneEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CloneEx2",
+            "request": "launch",
+            "mainClass": "ch9.CloneEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch EqualsEx1",
+            "request": "launch",
+            "mainClass": "ch9.EqualsEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch EqualsEx2",
+            "request": "launch",
+            "mainClass": "ch9.EqualsEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashCodeEx1",
+            "request": "launch",
+            "mainClass": "ch9.HashCodeEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MathEx1",
+            "request": "launch",
+            "mainClass": "ch9.MathEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MathEx2",
+            "request": "launch",
+            "mainClass": "ch9.MathEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch MathEx3",
+            "request": "launch",
+            "mainClass": "ch9.MathEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectsTest",
+            "request": "launch",
+            "mainClass": "ch9.ObjectsTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomEx1",
+            "request": "launch",
+            "mainClass": "ch9.RandomEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomEx2",
+            "request": "launch",
+            "mainClass": "ch9.RandomEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomEx3",
+            "request": "launch",
+            "mainClass": "ch9.RandomEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomEx4",
+            "request": "launch",
+            "mainClass": "ch9.RandomEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegularEx1",
+            "request": "launch",
+            "mainClass": "ch9.RegularEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegularEx2",
+            "request": "launch",
+            "mainClass": "ch9.RegularEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegularEx3",
+            "request": "launch",
+            "mainClass": "ch9.RegularEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegularEx4",
+            "request": "launch",
+            "mainClass": "ch9.RegularEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerEx1",
+            "request": "launch",
+            "mainClass": "ch9.ScannerEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerEx2",
+            "request": "launch",
+            "mainClass": "ch9.ScannerEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerEx3",
+            "request": "launch",
+            "mainClass": "ch9.ScannerEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShallowDeepCopy",
+            "request": "launch",
+            "mainClass": "ch9.ShallowDeepCopy",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBufferEx1",
+            "request": "launch",
+            "mainClass": "ch9.StringBufferEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBufferEx2",
+            "request": "launch",
+            "mainClass": "ch9.StringBufferEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx1",
+            "request": "launch",
+            "mainClass": "ch9.StringEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx2",
+            "request": "launch",
+            "mainClass": "ch9.StringEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx3",
+            "request": "launch",
+            "mainClass": "ch9.StringEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx4",
+            "request": "launch",
+            "mainClass": "ch9.StringEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx5",
+            "request": "launch",
+            "mainClass": "ch9.StringEx5",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx6",
+            "request": "launch",
+            "mainClass": "ch9.StringEx6",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx7",
+            "request": "launch",
+            "mainClass": "ch9.StringEx7",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTokenizerEx1",
+            "request": "launch",
+            "mainClass": "ch9.StringTokenizerEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTokenizerEx2",
+            "request": "launch",
+            "mainClass": "ch9.StringTokenizerEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTokenizerEx3",
+            "request": "launch",
+            "mainClass": "ch9.StringTokenizerEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTokenizerEx4",
+            "request": "launch",
+            "mainClass": "ch9.StringTokenizerEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTokenizerEx5",
+            "request": "launch",
+            "mainClass": "ch9.StringTokenizerEx5",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ToStringTest",
+            "request": "launch",
+            "mainClass": "ch9.ToStringTest",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch WrapperEx1",
+            "request": "launch",
+            "mainClass": "ch9.WrapperEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch WrapperEx2",
+            "request": "launch",
+            "mainClass": "ch9.WrapperEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch WrapperEx3",
+            "request": "launch",
+            "mainClass": "ch9.WrapperEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx1",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx10",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx10",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx11",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx11",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx12",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx12",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx13",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx13",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx14",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx14",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx15",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx15",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx16",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx16",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx17",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx17",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx18",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx18",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx19",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx19",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx2",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx20",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx20",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx21",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx21",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx22",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx22",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx23",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx23",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx24",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx24",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx25",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx25",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx26",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx26",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx27",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx27",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx28",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx28",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx29",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx29",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx3",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx30",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx30",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx31",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx31",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx32",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx32",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx4",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx5",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx5",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx6",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx6",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx7",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx7",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx8",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx8",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEx9",
+            "request": "launch",
+            "mainClass": "operator.OperatorEx9",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingEx1",
+            "request": "launch",
+            "mainClass": "variable.CastingEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingEx2",
+            "request": "launch",
+            "mainClass": "variable.CastingEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingEx3",
+            "request": "launch",
+            "mainClass": "variable.CastingEx3",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingEx4",
+            "request": "launch",
+            "mainClass": "variable.CastingEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharToCode",
+            "request": "launch",
+            "mainClass": "variable.CharToCode",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FloatEx1",
+            "request": "launch",
+            "mainClass": "variable.FloatEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch FloatToBinEx",
+            "request": "launch",
+            "mainClass": "variable.FloatToBinEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverflowEx",
+            "request": "launch",
+            "mainClass": "variable.OverflowEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintfEx1",
+            "request": "launch",
+            "mainClass": "variable.PrintfEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintfEx2",
+            "request": "launch",
+            "mainClass": "variable.PrintfEx2",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerEx",
+            "request": "launch",
+            "mainClass": "variable.ScannerEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpechialCharEx",
+            "request": "launch",
+            "mainClass": "variable.SpechialCharEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx",
+            "request": "launch",
+            "mainClass": "variable.StringEx",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarEx1",
+            "request": "launch",
+            "mainClass": "variable.VarEx1",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarEx2",
+            "request": "launch",
+            "mainClass": "variable.VarEx2",
+            "projectName": "JavaBasic"
+        }
+    ]
+}
