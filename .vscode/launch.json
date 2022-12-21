@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FruitBoxEx4",
+            "request": "launch",
+            "mainClass": "ch12.FruitBoxEx4",
+            "projectName": "JavaBasic"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
