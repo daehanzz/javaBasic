@@ -1,9 +1,6 @@
 package ch13;
 
 import javax.swing.JOptionPane;
-
-import ch7.I;
-
 public class ThreadEx7 {
     public static void main(String[] args) throws Exception {
         ThreadEx7_1 th1 = new ThreadEx7_1();
