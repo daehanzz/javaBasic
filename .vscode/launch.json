@@ -6,17 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch ThreadWaitEx2",
-            "request": "launch",
-            "mainClass": "ch13.ThreadWaitEx2",
-            "projectName": "JavaBasic"
-        },
-        {
-            "type": "java",
             "name": "Launch Java Program",
             "request": "launch",
             "mainClass": "",
-            "program": "${workspaceFolder}\\${file}"
+            "program":"${workspaceFolder}\\${file}"
         }
     ]
 }
