@@ -9,7 +9,7 @@ import java.util.function.Supplier;
 
 import ch7.I;
 
-public class LamdaEx5 {
+public class LambdaEx5 {
     public static void main(String[] args) {
         Supplier<Integer> s = () -> (int)(Math.random()*100)+1; // 1부터 100까지의 난수 생성
         Consumer<Integer> c = i -> System.out.print(i+", ");  // i 값 출력   

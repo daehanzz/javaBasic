@@ -6,7 +6,7 @@ import java.util.function.IntPredicate;
 import java.util.function.IntSupplier;
 import java.util.function.IntUnaryOperator;
 
-public class LamdaEx6 {
+public class LambdaEx6 {
     public static void main(String[] args) {
         IntSupplier s = () -> (int)(Math.random()*100)+1;
         IntConsumer c = i -> System.out.print(i+", ");

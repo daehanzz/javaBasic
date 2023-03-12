@@ -1,6 +1,6 @@
 package ch14;
 
-public class LandaEx2 {
+public class LambdaEx2 {
     public static void main(String[] args) {
         MyFunction f = () -> {}; // MyFunction f = (MyFunction)(() -> {});
         Object obj = (MyFunction)(() -> {});    // Object 타입으로 형변환이 생략
