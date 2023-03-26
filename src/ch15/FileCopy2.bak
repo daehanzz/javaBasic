@@ -1,0 +1,26 @@
+package ch15;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class FileCopy {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+
+		FileReader fis = new FileReader(args[0]);
+		FileWriter fos = new FileWriter(args[1]);
+		
+		int data = 0;
+		while ((data = fis.read()) != -1) {
+			fos.write(data);;
+		}
+		
+		fis.close();
+		fos.close();
+	}
+
+}
